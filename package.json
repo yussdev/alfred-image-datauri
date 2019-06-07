@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "alfy": "^0.8.0",
+    "clipboardy": "^2.0.0",
+    "image-data-uri": "^2.0.0"
+  },
+  "description": "Convert image file to data uri",
+  "keywords": [
+    "alfred",
+    "workflow",
+    "data uri",
+    "image to uri"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "alfred-image-datauri",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "version": "1.0.2",
+  "author": "youssef <yussdev@gmail.com>"
+}
