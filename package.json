@@ -19,5 +19,14 @@
     "preuninstall": "alfy-cleanup"
   },
   "version": "1.0.2",
-  "author": "youssef <yussdev@gmail.com>"
+  "author": "youssef <yussdev@gmail.com>",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussdev/alfred-image-datauri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yussdev/alfred-image-datauri/issues"
+  },
+  "homepage": "https://github.com/yussdev/alfred-image-datauri#readme"
 }
